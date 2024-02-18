@@ -15,7 +15,3 @@ Greetings! I'm an AI enthusiast, fascinated by Machine Learning, Natural Languag
 
 Let's Connect!
 Feel free to reach out if you're into any of these realms too or just want to chat. Collaboration, brainstorming, or jamming sessions — I'm up for anything!
-
-LinkedIn: [Your LinkedIn Profile Link]
-Twitter: [Your Twitter Profile Link]
-Portfolio Website: [Your Portfolio Website Link]
